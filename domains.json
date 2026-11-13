@@ -1,9 +1,10 @@
 {
-  "version": 1,
+  "version": 2,
   "remoteUrl": "https://raw.githubusercontent.com/userserverbackup/futbol_libre-dominios/main/domains.json",
   "site": {
     "baseUrl": "https://futbolvivo.tv",
-    "agendaUrl": "https://futbolvivo.tv/"
+    "agendaUrl": "https://futbolvivo.tv/",
+    "agendaMode": "rendered"
   },
   "legacySiteHosts": ["futbol-libres.su"],
   "playerHosts": [
@@ -12,7 +13,7 @@
     "latamvidz1.com",
     "vidzenvivo.cc"
   ],
-  "playerHostTokens": ["latamvidz", "vidzenvivo"],
+  "playerHostTokens": ["latamvidz", "vidzenvivo", "kora-plus"],
   "playerPath": "/canal.php?stream={name}",
   "channelStreamMap": {
     "espn-1": ["espn"],
