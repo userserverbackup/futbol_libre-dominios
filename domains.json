@@ -1,9 +1,9 @@
 {
-  "version": 8,
+  "version": 9,
   "remoteUrl": "https://raw.githubusercontent.com/userserverbackup/futbol_libre-dominios/main/domains.json",
   "site": {
-    "baseUrl": "https://futbolvi5vo5.tv",
-    "agendaUrl": "https://futbolvi5vo5.tv/",
+    "baseUrl": "https://futbolvivo.tv",
+    "agendaUrl": "https://futbolvivo.tv/",
     "agendaMode": "rendered"
   },
   "legacySiteHosts": [
