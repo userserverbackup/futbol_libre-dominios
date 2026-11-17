@@ -2,8 +2,8 @@
   "version": 11,
   "remoteUrl": "https://raw.githubusercontent.com/userserverbackup/futbol_libre-dominios/main/domains.json",
   "site": {
-    "baseUrl": "https://futbolvivo.tv",
-    "agendaUrl": "https://futbolvivo.tv/",
+    "baseUrl": "https://narto-drama.com/",
+    "agendaUrl": "https://narto-drama.com/",
     "agendaMode": "rendered"
   },
   "legacySiteHosts": [
