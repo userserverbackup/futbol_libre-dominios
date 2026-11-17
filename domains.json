@@ -1,28 +1,55 @@
 {
-  "version": 4,
+  "version": 5,
   "remoteUrl": "https://raw.githubusercontent.com/userserverbackup/futbol_libre-dominios/main/domains.json",
   "site": {
-    "baseUrl": "https://futbolvivo.tv/",
-    "agendaUrl": "https://futbolvivo.tv/",
+    "baseUrl": "https://el-sitio-real.com",
+    "agendaUrl": "https://el-sitio-real.com/",
     "agendaMode": "rendered"
   },
-  "legacySiteHosts": ["futbol-libres.su"],
+  "legacySiteHosts": [
+    "futbol-libres.su"
+  ],
   "playerHosts": [
     "latamvidzfy.org",
     "latamvidzs.org",
     "latamvidz1.com",
     "vidzenvivo.cc"
   ],
-  "playerHostTokens": ["latamvidz", "vidzenvivo", "kora-plus"],
+  "playerHostTokens": [
+    "latamvidz",
+    "vidzenvivo",
+    "kora-plus"
+  ],
   "playerPath": "/canal.php?stream={name}",
   "channelStreamMap": {
-    "espn-1": ["espn"],
-    "directv-sports": ["dsports", "dsportsar"],
-    "tyc-sports": ["tyc", "tycsports"],
-    "win-sports-premium": ["winsports", "win"],
-    "fox-sports": ["fox1", "fox"],
-    "tudn": ["tudn"],
-    "espn-premium": ["espnpremium"],
-    "tnt-sports": ["tnt", "tntsports"]
+    "espn-1": [
+      "espn"
+    ],
+    "directv-sports": [
+      "dsports",
+      "dsportsar"
+    ],
+    "tyc-sports": [
+      "tyc",
+      "tycsports"
+    ],
+    "win-sports-premium": [
+      "winsports",
+      "win"
+    ],
+    "fox-sports": [
+      "fox1",
+      "fox"
+    ],
+    "tudn": [
+      "tudn"
+    ],
+    "espn-premium": [
+      "espnpremium"
+    ],
+    "tnt-sports": [
+      "tnt",
+      "tntsports"
+    ]
   }
 }
