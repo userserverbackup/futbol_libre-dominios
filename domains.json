@@ -1,9 +1,9 @@
 {
-  "version": 5,
+  "version": 6,
   "remoteUrl": "https://raw.githubusercontent.com/userserverbackup/futbol_libre-dominios/main/domains.json",
   "site": {
-    "baseUrl": "https://el-sitio-real.com",
-    "agendaUrl": "https://el-sitio-real.com/",
+    "baseUrl": "https://futbolvivo.tv",
+    "agendaUrl": "https://futbolvivo.tv/",
     "agendaMode": "rendered"
   },
   "legacySiteHosts": [
