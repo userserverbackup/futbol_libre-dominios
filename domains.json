@@ -2,8 +2,8 @@
   "version": 3,
   "remoteUrl": "https://raw.githubusercontent.com/userserverbackup/futbol_libre-dominios/main/domains.json",
   "site": {
-    "baseUrl": "https://futbolv1ivo.tv",
-    "agendaUrl": "https://futbol1vivo.tv/",
+    "baseUrl": "https://futbolvivo.tv",
+    "agendaUrl": "https://futbolvivo.tv/",
     "agendaMode": "rendered"
   },
   "legacySiteHosts": ["futbol-libres.su"],
